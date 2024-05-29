@@ -39,7 +39,8 @@ Este script puede ser modificado por el usuario para adaptarlo a sus necesidades
     wget https://github.com/itzspike14/Debian12/archive/refs/heads/main.zip
     ```
 2. Tendras que tener **privilegios de superusuario** para poder ejecutar el script
-3. Utiliza el siguiente comando para ejecutar el script:
+3. Utiliza los siguientes comandos para ejecutar el script:
     ```sh
+    sudo chmod +x setup.sh
     sudo ./setup.sh
     ```
