@@ -1,0 +1,14 @@
+<background>
+  <static>
+    <duration>8640000.0</duration>
+    <file>
+      <size width="1280" height="720">/usr/share/desktop-base/emerald-theme/wallpaper/contents/images/1280x720.png</size>
+      <size width="1366" height="768">/usr/share/desktop-base/emerald-theme/wallpaper/contents/images/1366x768.png</size>
+      <size width="1920" height="1080">/usr/share/desktop-base/emerald-theme/wallpaper/contents/images/1920x1080.png</size>
+      <size width="2560" height="1440">/usr/share/desktop-base/emerald-theme/wallpaper/contents/images/2560x1440.png</size>
+      <size width="3840" height="2160">/usr/share/desktop-base/emerald-theme/wallpaper/contents/images/3840x2160.png</size>
+      <size width="5120" height="2880">/usr/share/desktop-base/emerald-theme/wallpaper/contents/images/5120x2880.png</size>
+    </file>
+  </static>
+</background>
+
