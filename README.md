@@ -46,7 +46,7 @@ Este script puede ser modificado por el usuario para adaptarlo a sus necesidades
     ```
 </br>
 
-## **Comparacion visual**
+## **Comparación visual**
 ### Antes
 <img src="./Comparison/Default/Desktop.png">
 
