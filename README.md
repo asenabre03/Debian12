@@ -46,33 +46,10 @@ Este script puede ser modificado por el usuario para adaptarlo a sus necesidades
     ```
 </br>
 
-## **Comparación visual**
+## **Imagenes**
 ### Antes
-<img src="./Comparison/Default/Desktop.png">
-
-### Despues
 <img src="./Comparison/Custom/Desktop.png">
 
----
-
-### Antes
-<img src="./Comparison/Default/Apps.png">
-
-### Despues
-<img src="./Comparison/Custom/Apps.png">
-
----
-
-### Antes
-<img src="./Comparison/Default/Nautilus.png">
-
-### Despues
 <img src="./Comparison/Custom/Nautilus.png">
 
----
-
-### Antes
-<img src="./Comparison/Default/Terminal.png">
-
-### Despues
 <img src="./Comparison/Custom/Terminal.png">
