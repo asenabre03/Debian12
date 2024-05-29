@@ -24,7 +24,7 @@ El script realiza una serie de personalizaciones y optimizaciones en un sistema 
 Este script puede ser modificado por el usuario para adaptarlo a sus necesidades, por ejemplo:
 
 - **Agregar** o **Eliminar** paquetes:
-    - Puedes modificar las listas de paquetes para instalar o desinstalar según tus preferencias.
+    - Modifica las listas de paquetes para instalar o desinstalar según tus preferencias.
 
 - **Modificar** configuraciones estéticas:
     - Ajusta las configuraciones estéticas, como **fondos de pantalla** y **temas**, para que coincidan con tu estilo personal.
