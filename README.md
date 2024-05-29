@@ -44,7 +44,6 @@ Este script puede ser modificado por el usuario para adaptarlo a sus necesidades
     sudo chmod +x setup.sh
     sudo ./setup.sh
     ```
-</br>
 
 ## **Imagenes**
 <img src="./Comparison/Custom/Desktop.png">
