@@ -24,7 +24,7 @@ read usuario
 # ===================| Actualizamos los repositorios y actualizamos el sistema. |===================
 # ==================================================================================================
 clear
-echo "Actualizando sistema y repositorio..."
+echo "Actualizando sistema y repositorios..."
 sleep 3
 
 apt update
