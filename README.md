@@ -1,5 +1,5 @@
 # **Personalización y Optimización de Debian 12**
-El script esta hecho para realizar una serie de personalizaciones y optimizaciones en un sistema Debian 12. El script mejora el rendimiento del sistema eliminando paquetes innecesarios y aplica una personalizacion que hace que el sistema sea mas bonito a la simple vista y mas facil de usarlo.
+El script realiza una serie de personalizaciones y optimizaciones en un sistema Debian 12. El script mejora el rendimiento del sistema eliminando paquetes innecesarios y aplica una personalizacion que hace que el sistema sea mas bonito a la simple vista y mas facil de usarlo.
 
 ## **A continuacion se explicara el funcionamiento del Script**
 ### 1. Actualización del Sistema
