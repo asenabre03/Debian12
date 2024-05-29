@@ -20,7 +20,7 @@ El script realiza una serie de personalizaciones y optimizaciones en un sistema 
 ### 6. Reinicio automatico
 - El script reiniciara el sistema para aplicar los cambios realizados.
 
-## **Posibilidad de Personalización del Script**
+## **Posibilidad de personalización del Script**
 Este script puede ser modificado por el usuario para adaptarlo a sus necesidades, por ejemplo:
 
 - **Agregar** o **Eliminar** paquetes:
