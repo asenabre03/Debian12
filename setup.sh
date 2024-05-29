@@ -127,6 +127,7 @@ clear
 echo "Aplicando configuración estetica en el sistema..."
 sleep 1
 
+rm /home/$usuario/.config/dconf/user
 cp ./user /home/$usuario/.config/dconf/
 
 echo "Aplicando nueva fuente en el sistema..."
