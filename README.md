@@ -44,3 +44,33 @@ Este script puede ser modificado por el usuario para adaptarlo a sus necesidades
     sudo chmod +x setup.sh
     sudo ./setup.sh
     ```
+</br>
+
+# **Comparacion visual**
+## Escritorio
+### Antes
+<img src="./Comparison/Default/Desktop.png">
+
+### Despues
+<img src="./Comparison/Custom/Desktop.png">
+
+## Menu de aplicaciones
+### Antes
+<img src="./Comparison/Default/Apps.png">
+
+### Despues
+<img src="./Comparison/Custom/Apps.png">
+
+## Vista de las ventanas
+### Antes
+<img src="./Comparison/Default/Nautilus.png">
+
+### Despues
+<img src="./Comparison/Custom/Nautilus.png">
+
+## Terminal
+### Antes
+<img src="./Comparison/Default/Terminal.png">
+
+### Despues
+<img src="./Comparison/Custom/Terminal.png">
