@@ -47,7 +47,6 @@ Este script puede ser modificado por el usuario para adaptarlo a sus necesidades
 </br>
 
 ## **Imagenes**
-### Antes
 <img src="./Comparison/Custom/Desktop.png">
 
 <img src="./Comparison/Custom/Nautilus.png">
