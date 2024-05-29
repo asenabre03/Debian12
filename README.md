@@ -33,8 +33,8 @@ Este script puede ser modificado por el usuario para adaptarlo a sus necesidades
     - Incorpora scripts adicionales o comandos personalizados para realizar tareas específicas que necesites en tu entorno de trabajo.
 
 ## **Como ejecutar el Script**
-1. Tendras que tener **privilegios de superusuario** para poder ejecutar el Script
-2. Utiliza el siguiente comando para ejecutar el Script:
+1. Tendras que tener **privilegios de superusuario** para poder ejecutar el script
+2. Utiliza el siguiente comando para ejecutar el script:
     ```sh
     sudo ./setup.sh
     ```
