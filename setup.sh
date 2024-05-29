@@ -85,13 +85,13 @@ clear
 if ! is_installed "google-chrome-stable"; then
     echo "Descargando Google Chrome..."
     sleep 3
-    wget wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb ./
+    apt install wget -y
+    wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb ./
     mv ./google-chrome-stable_current_amd64.deb ./googleChrome.deb
     
     clear
     echo "Instalando Google Chrome..."
     sleep 3
-    apt install wget -y
     dpkg -i ./googleChrome.deb || apt --fix-broken install -y
     dpkg -i ./googleChrome.deb
 else
