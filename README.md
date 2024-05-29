@@ -46,29 +46,31 @@ Este script puede ser modificado por el usuario para adaptarlo a sus necesidades
     ```
 </br>
 
-# **Comparacion visual**
-## Escritorio
+## **Comparacion visual**
 ### Antes
 <img src="./Comparison/Default/Desktop.png">
 
 ### Despues
 <img src="./Comparison/Custom/Desktop.png">
 
-## Menu de aplicaciones
+---
+
 ### Antes
 <img src="./Comparison/Default/Apps.png">
 
 ### Despues
 <img src="./Comparison/Custom/Apps.png">
 
-## Vista de las ventanas
+---
+
 ### Antes
 <img src="./Comparison/Default/Nautilus.png">
 
 ### Despues
 <img src="./Comparison/Custom/Nautilus.png">
 
-## Terminal
+---
+
 ### Antes
 <img src="./Comparison/Default/Terminal.png">
 
