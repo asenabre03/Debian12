@@ -121,7 +121,7 @@ apt --fix-broken install -y
 
 
 # ==================================================================================================
-# ====================| Aquí se aplican los cambios esteticos a Debian 12.5.0 |=====================
+# ====================| Aquí se aplican los cambios estéticos a Debian 12.5.0 |=====================
 # ==================================================================================================
 clear
 echo "Aplicando configuración estética en el sistema..."
@@ -229,7 +229,7 @@ apt autoremove -y
 # =========| El script ha terminado su ejecución, el equipo se reiniciara en 5 segundos. |==========
 # ==================================================================================================
 clear
-echo "Fin del script de personalizacion de Debian 12.5.0!"
+echo "Fin del script de personalización de Debian 12.5.0!"
 echo "Reiniciando en 5 segundos para aplicar cambios..."
 sleep 5
 reboot
