@@ -5,7 +5,7 @@ El script realiza una serie de personalizaciones y optimizaciones en un sistema 
 ### 1. Actualización del Sistema
 - El script actualizará tu sistema con las últimas versiones de software y parches de seguridad.
 
-### 2. Eliminación de Paquetes innecesarios
+### 2. Eliminación de paquetes innecesarios
 - Remueve automáticamente una serie de paquetes preinstalados que pueden no ser útiles para todos los usuarios, liberando espacio en disco y reduciendo el uso de recursos del sistema. Esto es especialmente útil en configuraciones de hardware con recursos limitados.
 
 ### 3. Limpieza de paquetes residuales del Sistema
@@ -14,7 +14,7 @@ El script realiza una serie de personalizaciones y optimizaciones en un sistema 
 ### 4. Instalación de Software útil
 - Se instalarán aplicaciones útiles como Google Chrome, neofetch, y bpytop, estas dos últimas para proporcionar herramientas adicionales para la personalización y el monitoreo.
 
-### 5. Configuraciones Estéticas del Sistema
+### 5. Configuraciones estéticas del Sistema
 - El script aplica una serie de configuraciones estéticas ya preestablecidas para mejorar la apariencia y experiencia del sistema. Esto incluye la instalación de nuevas fuentes, fondos de pantalla, y temas de Plymouth para el arranque del sistema.
 
 ### 6. Reinicio automatico
