@@ -11,7 +11,7 @@ El script realiza una serie de personalizaciones y optimizaciones en un sistema 
 ### 3. Limpieza de paquetes residuales del Sistema
 - Realiza una limpieza completa de paquetes residuales que hayan podido dejar los paquetes anteriormente eliminados, asegurando que el sistema esté lo más limpio posible, permitiendo un entorno de trabajo limpio y optimizado.
 
-### 4. Instalación de Software util
+### 4. Instalación de Software útil
 - Se instalarán aplicaciones útiles como Google Chrome, neofetch, y bpytop, estas dos últimas para proporcionar herramientas adicionales para la personalización y el monitoreo.
 
 ### 5. Configuraciones Estéticas del Sistema
