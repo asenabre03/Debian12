@@ -2,7 +2,7 @@
 El script realiza una serie de personalizaciones y optimizaciones en un sistema Debian 12. El script mejora el rendimiento del sistema eliminando paquetes innecesarios y aplica una personalización que hace que el sistema sea más bonito a la simple vista y más fácil de usarlo.
 
 ## **A continuacion se explicara el funcionamiento del Script**
-### 1. Actualización del Sistema
+### 1. Actualización del sistema
 - El script actualizará tu sistema con las últimas versiones de software y parches de seguridad.
 
 ### 2. Eliminación de paquetes innecesarios
@@ -11,10 +11,10 @@ El script realiza una serie de personalizaciones y optimizaciones en un sistema 
 ### 3. Limpieza de paquetes residuales del Sistema
 - Realiza una limpieza completa de paquetes residuales que hayan podido dejar los paquetes anteriormente eliminados, asegurando que el sistema esté lo más limpio posible, permitiendo un entorno de trabajo limpio y optimizado.
 
-### 4. Instalación de Software útil
+### 4. Instalación de software útil
 - Se instalarán aplicaciones útiles como Google Chrome, neofetch, y bpytop, estas dos últimas para proporcionar herramientas adicionales para la personalización y el monitoreo.
 
-### 5. Configuraciones estéticas del Sistema
+### 5. Configuraciones estéticas del sistema
 - El script aplica una serie de configuraciones estéticas ya preestablecidas para mejorar la apariencia y experiencia del sistema. Esto incluye la instalación de nuevas fuentes, fondos de pantalla, y temas de Plymouth para el arranque del sistema.
 
 ### 6. Reinicio automatico
@@ -23,7 +23,7 @@ El script realiza una serie de personalizaciones y optimizaciones en un sistema 
 ## **Posibilidad de personalización del Script**
 Este script puede ser modificado por el usuario para adaptarlo a sus necesidades, por ejemplo:
 
-- **Agregar** o **Eliminar** paquetes:
+- **Agregar** o **eliminar** paquetes:
     - Modifica las listas de paquetes para instalar o desinstalar según tus preferencias.
 
 - **Modificar** configuraciones estéticas:
