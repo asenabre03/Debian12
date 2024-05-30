@@ -8,7 +8,7 @@ El script realiza una serie de personalizaciones y optimizaciones en un sistema 
 ### 2. Eliminación de paquetes innecesarios
 - Remueve automáticamente una serie de paquetes preinstalados que pueden no ser útiles para todos los usuarios, liberando espacio en disco y reduciendo el uso de recursos del sistema. Esto es especialmente útil en configuraciones de hardware con recursos limitados.
 
-### 3. Limpieza de paquetes residuales del Sistema
+### 3. Limpieza de paquetes residuales del sistema
 - Realiza una limpieza completa de paquetes residuales que hayan podido dejar los paquetes anteriormente eliminados, asegurando que el sistema esté lo más limpio posible, permitiendo un entorno de trabajo limpio y optimizado.
 
 ### 4. Instalación de software útil
