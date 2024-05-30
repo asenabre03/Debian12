@@ -124,7 +124,7 @@ apt --fix-broken install -y
 # ====================| Aquí se aplican los cambios esteticos a Debian 12.5.0 |=====================
 # ==================================================================================================
 clear
-echo "Aplicando configuración estetica en el sistema..."
+echo "Aplicando configuración estética en el sistema..."
 sleep 1
 
 rm /home/$usuario/.config/dconf/user
