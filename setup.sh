@@ -132,7 +132,6 @@ cp ./user /home/$usuario/.config/dconf/
 echo "Aplicando nueva fuente en el sistema..."
 sleep 1
 
-cp ./user /home/$usuario/.config/dconf/
 mkdir -p /usr/share/fonts/truetype/productSans
 cp ./productSans.ttf /usr/share/fonts/truetype/productSans/
 # ==================================================================================================
