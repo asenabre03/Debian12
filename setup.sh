@@ -227,7 +227,7 @@ apt autoremove -y
 # =========| El script ha terminado su ejecución, el equipo se reiniciara en 5 segundos. |==========
 # ==================================================================================================
 clear
-echo "Fin del script de personalización de Debian 12.5.0!"
+echo "Fin del script de personalización de Debian 12!"
 echo "Reiniciando en 5 segundos para aplicar cambios..."
 sleep 5
 reboot
