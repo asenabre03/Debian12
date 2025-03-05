@@ -37,8 +37,8 @@ Este script puede ser modificado por el usuario para adaptarlo a sus necesidades
 ## **Como ejecutar el Script**
 1. Clona el repositorio con `git clone` o descárgalo a través de `wget`.
     ```sh
-    git clone https://github.com/itzspike14/Debian12.git
-    wget https://github.com/itzspike14/Debian12/archive/refs/heads/main.zip
+    git clone https://github.com/asenabre03/Debian12.git
+    wget https://github.com/asenabre03/Debian12/archive/refs/heads/main.zip
     ```
 2. Tendrás que tener **privilegios de superusuario** para poder ejecutar el script
 3. Utiliza los siguientes comandos para ejecutar el script:
